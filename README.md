@@ -8,4 +8,4 @@ To run my code:
 3) Enter "npm start" into the terminal
 4) View my "Hello World!" site
 
-Everything should be working properly, but please let me know if not! I can always deploy it to Netlify, then anyone should be able to open and view the link.
+Everything should be working properly, but please let me know if not!
